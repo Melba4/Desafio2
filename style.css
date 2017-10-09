@@ -1,0 +1,30 @@
+ body{
+    	background-color: darkblue;
+    	color:white;
+    }
+      #map {
+        height: 350px;
+        width: 100%;
+
+
+       }
+
+       h1 {
+       	color: gold;
+       	font-family: helvetica;
+
+       }
+
+       p{
+       	font-size:0.9em;
+       }
+
+       footer{
+       	background-color:goldenrod;
+       	color:black;
+       	font-size:0.8rem;
+       	margin-top:20px;
+       	padding:5px;
+       	text-align:center;
+
+       }
